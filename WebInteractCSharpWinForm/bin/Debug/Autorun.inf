@@ -1,0 +1,5 @@
+[autorun]
+
+open=WebInteractCSharpWinForm.exe
+
+icon=logo_interactivo.ico
