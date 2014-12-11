@@ -1,0 +1,8 @@
+C:\Users\Garrigueta7msi\Documents\GitHub\WebInteractCSharpWinForm\WebInteractCSharpWinForm\bin\Debug\WebInteractCSharpWinForm.exe
+C:\Users\Garrigueta7msi\Documents\GitHub\WebInteractCSharpWinForm\WebInteractCSharpWinForm\bin\Debug\WebInteractCSharpWinForm.pdb
+C:\Users\Garrigueta7msi\Documents\GitHub\WebInteractCSharpWinForm\WebInteractCSharpWinForm\obj\Debug\WebInteractCSharpWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Garrigueta7msi\Documents\GitHub\WebInteractCSharpWinForm\WebInteractCSharpWinForm\obj\Debug\WebInteractCSharpWinForm.Form1.resources
+C:\Users\Garrigueta7msi\Documents\GitHub\WebInteractCSharpWinForm\WebInteractCSharpWinForm\obj\Debug\WebInteractCSharpWinForm.Properties.Resources.resources
+C:\Users\Garrigueta7msi\Documents\GitHub\WebInteractCSharpWinForm\WebInteractCSharpWinForm\obj\Debug\WebInteractCSharpWinForm.csproj.GenerateResource.Cache
+C:\Users\Garrigueta7msi\Documents\GitHub\WebInteractCSharpWinForm\WebInteractCSharpWinForm\obj\Debug\WebInteractCSharpWinForm.exe
+C:\Users\Garrigueta7msi\Documents\GitHub\WebInteractCSharpWinForm\WebInteractCSharpWinForm\obj\Debug\WebInteractCSharpWinForm.pdb
